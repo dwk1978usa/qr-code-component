@@ -1,0 +1,24 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qrcode{
+    margin: 100px 800px 100px 800px;
+    background-color: white;
+    text-align: center;
+    padding: 17px;
+    border-radius: 20px;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+}
+
+img{
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+h1{
+    font-size: 23px;
+    font-weight: 700;
+}
